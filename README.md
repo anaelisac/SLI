@@ -38,7 +38,7 @@ Ser a empresa líder em consultoria ferroviária reconhecida pela qualidade e ex
 <span id="Valores">
 
 ### Valores:
- <p>:
+ <p>
   
 Comprometimento com a satisfação do cliente, buscando sempre superar suas expectativas;
 Ética e transparência em todas as relações com nossos clientes, parceiros e colaboradores;
@@ -52,21 +52,6 @@ Respeito e valorização das pessoas, reconhecendo a importância de cada colabo
  </p>
 
 <a href="#inicio">[Voltar ao início]</a>
-
-Missão:
-
-Nossa missão é fornecer soluções de consultoria inovadoras e personalizadas para empresas ferroviárias no território brasileiro, ajudando nossos clientes a aumentar a eficiência, melhorar a segurança e reduzir custos, sempre buscando o desenvolvimento sustentável.
-
-Visão:
-Ser a empresa líder em consultoria ferroviária reconhecida pela qualidade e excelência de nossos serviços, atendendo às necessidades de nossos clientes e contribuindo para a melhoria do transporte ferroviário nacional.
-
-Valores:
-Comprometimento com a satisfação do cliente, buscando sempre superar suas expectativas;
-Ética e transparência em todas as relações com nossos clientes, parceiros e colaboradores;
-Inovação e criatividade para encontrar soluções personalizadas e eficazes para cada cliente;
-Responsabilidade social e ambiental, buscando sempre promover a sustentabilidade e a preservação do meio ambiente;
-Respeito e valorização das pessoas, reconhecendo a importância de cada colaborador em nosso sucesso como empresa.
-
 
 
 <span id="requisitos">

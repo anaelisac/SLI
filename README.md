@@ -88,7 +88,8 @@ ANÁLISE QUALITATIVA DAS FERROVIAS INDICANDO: GEOGRAFIA DA MALHA E ANÁLISE QUAL
  - JiraSoftware
  - 5W2H 
  - 5 sensos
- - Microsoft Power Platform
+ - Microsoft PowerBI
+ - Microsoft Teams
   
  <a href="#inicio">[Voltar ao início]</a>
  

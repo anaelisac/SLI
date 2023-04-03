@@ -13,7 +13,7 @@
 - Características das cargas movimentadas, isto é, identificar os diferentes tipos de carga transportados através da malha ferroviária.
 
 
-# Protótipo de Interação dos dados coletados:
+# Base de dados:
 Dados coletados através do site da ANTT - Agência Nacional de Transportes Terrestres, e tratados manualmente com utilização do Microsoft Excel
 Dados dispostos em formato de gráficos no MicrosoftPowerBI
 

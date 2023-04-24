@@ -24,4 +24,9 @@ Tabela de acompanhamento da evolução do projeto detalhado nas categorias: Ativ
 
 Links: <p><a href="https://github.com/anaelisac/SLI/blob/1%C2%AA-Sprint/5W2H%20-%20Acompanhamento%20do%20Desenvolvimento%20da%20Equipe.pdf">5W2H</a></p> 
       <p><a href="https://app.powerbi.com/groups/me/reports/26555dbd-6ac6-4ac8-8d8c-5d0b9e6253f5/ReportSection">5W2H Gráfico comparativo</a></p> 
+      
+# Outras tecnologias utilizadas:
+
+Phyton
+
 

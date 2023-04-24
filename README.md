@@ -5,6 +5,7 @@
  
 # Sprint 2:
 >   Data da apresentação: 24/04/2023
+<p><a href="https://app.powerbi.com/links/ykNT3L-KNe?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare">2ª Sprint</a></p>
 
 # Requisitos determinados pelo cliente:
   

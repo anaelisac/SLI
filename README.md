@@ -114,7 +114,7 @@ Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
 #1 | 29.08.22 - 03.04.23 |  <p><a href="https://app.powerbi.com/links/wsIetA2JLj?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare">1ª Sprint</a></p> | CONCLUÍDO
 #2 | 04.04.23 - 24.04.23 | <p><a href="https://app.powerbi.com/links/ykNT3L-KNe?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare">2ª Sprint</a></p> | CONCLUÍDO
-#3 | 25.04.22 - 15.05.23 | <p><a href="Link">3ª Sprint</a></p> | EM ANDAMENTO
+#3 | 25.04.22 - 15.05.23 | <p><a href="https://app.powerbi.com/groups/me/reports/f40a3bd1-4a78-4fcd-bf55-17c647218909/ReportSection?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi">3ª Sprint</a></p> | CONCLUIDO
 #4 | 16.05.22 - 05.06.23 | <p><a href="lINK">4ª Sprint</a></p> | A INICIAR
 
 <a href="#inicio">[Voltar ao início]</a>

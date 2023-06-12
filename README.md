@@ -15,7 +15,7 @@ Projeção das movimentações.
 # Base de dados:
 Dados coletados através do site da ANTT - Agência Nacional de Transportes Terrestres. Os dados foram analisados primeiramente mediante relatórios do Microsoft PowerBi com o intuito de gerar uma noção de para quais indicadores haveria o benefício de uma análise mais detalhada utilizando o Phyton. 
 
-> Link direto para o modelo da Sprint 4 <p><a href="Link">3ª Sprint</a></p> 
+> Link direto para o modelo da Sprint 4 <p><a href="Link">4ª Sprint</a></p> 
 
 # 5W2H
 

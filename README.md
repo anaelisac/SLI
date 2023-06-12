@@ -5,7 +5,7 @@
  
 # Sprint 3:
 >   Data da apresentação: 22/05/2023
-<p><a href="https://app.powerbi.com/groups/me/reports/f40a3bd1-4a78-4fcd-bf55-17c647218909/ReportSection?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi">3ª Sprint</a></p>
+<p><a href="https://app.powerbi.com/groups/d2d1e4cd-60fd-4730-9fdf-b5b82980116e/reports/f40a3bd1-4a78-4fcd-bf55-17c647218909?context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android">3ª Sprint</a></p>
 
 # Requisitos determinados pelo cliente:
  
